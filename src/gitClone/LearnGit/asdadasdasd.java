@@ -1,7 +1,7 @@
 package gitClone.LearnGit;
 
-public class Test01 {
+public class asdadasdasd {
     public static void main(String[] args) {
-        System.out.println("66666");
+        System.out.println("1231231231231");
     }
 }
